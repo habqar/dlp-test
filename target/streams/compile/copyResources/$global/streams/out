@@ -1,0 +1,4 @@
+[debug] Copy resource mappings: 
+[debug] 	(C:\Users\HABQAR\Desktop\dlp-test\conf\application.conf,C:\Users\HABQAR\Desktop\dlp-test\target\scala-2.12\classes\application.conf)
+[debug] 	(C:\Users\HABQAR\Desktop\dlp-test\conf\logback.xml,C:\Users\HABQAR\Desktop\dlp-test\target\scala-2.12\classes\logback.xml)
+[debug] 	(C:\Users\HABQAR\Desktop\dlp-test\conf\routes,C:\Users\HABQAR\Desktop\dlp-test\target\scala-2.12\classes\routes)
